@@ -83,3 +83,11 @@ A pragmatic, resourceful, goal-oriented, outgoing developer. I like building coo
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bdenysovets@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/dan_denysovets/)
 
+---
+
+### Languages 🇺🇦🇷🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪
+
+![](https://img.shields.io/badge/Ukrainian-Native-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
+![](https://img.shields.io/badge/Russian-Native-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
+![](https://img.shields.io/badge/English-Highly_Proficient-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
+![](https://img.shields.io/badge/German-Intermediate-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
