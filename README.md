@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there, I'm Dan Denysovets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?BDenysovets=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+A pragmatic, resourceful, goal-oriented, outgoing developer. I like building cool things and using the newest technology to create them. I'll be happy to be involved in an interesting part.
