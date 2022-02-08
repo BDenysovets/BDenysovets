@@ -85,9 +85,8 @@ A pragmatic, resourceful, goal-oriented, outgoing developer. I like building coo
 
 ---
 
-### Languages 🇺🇦🇷🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪
+### Languages 🇺🇦🇷🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 ![](https://img.shields.io/badge/Ukrainian-Native-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
 ![](https://img.shields.io/badge/Russian-Native-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
 ![](https://img.shields.io/badge/English-Highly_Proficient-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
-![](https://img.shields.io/badge/German-Intermediate-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
