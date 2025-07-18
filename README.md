@@ -51,6 +51,7 @@ A pragmatic, resourceful, goal-oriented, outgoing developer. I like building coo
 #### Testing
 ![](https://img.shields.io/badge/Jest-Testing_Library-informational?style=flat-square&logo=jest&logoColor=white&color=9C3856)
 ![](https://img.shields.io/badge/Cypress-Testing_Library-informational?style=flat-square&logo=cypress&logoColor=white&color=333333)
+![](https://img.shields.io/badge/Playwright-Testing_Library-informational?style=flat-square&logo=jest&logoColor=white&color=9C3856)
 
 #### Design
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=white&color=1C1C1C)
@@ -66,6 +67,7 @@ A pragmatic, resourceful, goal-oriented, outgoing developer. I like building coo
 ![](https://img.shields.io/badge/Facebook-Authorisation-informational?style=flat-square&logo=facebook&logoColor=white&color=3E62A9)
 ![](https://img.shields.io/badge/Google_Maps-Maps_Provider-Authorisation-informational?style=flat-square&logo=google&logoColor=white&color=1F9C5F)
 ![](https://img.shields.io/badge/Mailchimp-Emails-informational?style=flat-square&logo=mailchimp&logoColor=white&color=F2D519)
+![](https://img.shields.io/badge/Mailgun-Emails-informational?style=flat-square&logo=mailchimp&logoColor=white&color=F2D519)
 
 #### CI/CD
 ![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=1B1D21)
