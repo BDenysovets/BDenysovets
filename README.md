@@ -30,10 +30,12 @@ A pragmatic, resourceful, goal-oriented, outgoing developer. I like building coo
 ![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=6810E7)
 ![](https://img.shields.io/badge/D3-Data_Framework-informational?style=flat-square&logo=d3.js&logoColor=white&color=ED953D)
 ![](https://img.shields.io/badge/Webpack-Module_Bundler-informational?style=flat-square&logo=webpack&logoColor=white&color=87CBEE)
+![](https://img.shields.io/badge/Vite-Module_Bundler-informational?style=flat-square&logo=webpack&logoColor=white&color=87CBEE)
 ![](https://img.shields.io/badge/Next_JS-React_Framework-informational?style=flat-square&logo=next.js&logoColor=white&color=1B2428)
 
 #### Back-end
-![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=83BB05)
+![](https://img.shields.io/badge/NodeJS-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=83BB05)
+![](https://img.shields.io/badge/NestJS-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=83BB05)
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=4A24D4)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=D931A2)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=16184D)
